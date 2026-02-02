@@ -1,0 +1,4 @@
+npx create-next-app@latest political-matrix --ts --app
+cd political-matrix
+# replace app/page.tsx with the code above
+npm run dev
